@@ -1,0 +1,6 @@
+C:\Users\Abhishek\Source\Repos\BusinessObject_PMS\bin\Debug\BusinessObject_PMS.dll
+C:\Users\Abhishek\Source\Repos\BusinessObject_PMS\bin\Debug\BusinessObject_PMS.pdb
+C:\Users\Abhishek\Source\Repos\BusinessObject_PMS\obj\Debug\BusinessObject_PMS.csproj.AssemblyReference.cache
+C:\Users\Abhishek\Source\Repos\BusinessObject_PMS\obj\Debug\BusinessObject_PMS.csproj.CoreCompileInputs.cache
+C:\Users\Abhishek\Source\Repos\BusinessObject_PMS\obj\Debug\BusinessObject_PMS.dll
+C:\Users\Abhishek\Source\Repos\BusinessObject_PMS\obj\Debug\BusinessObject_PMS.pdb

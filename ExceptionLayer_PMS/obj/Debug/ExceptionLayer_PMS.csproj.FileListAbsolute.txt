@@ -1,0 +1,6 @@
+C:\Users\Abhishek\Source\Repos\ExceptionLayer_PMS\bin\Debug\ExceptionLayer_PMS.dll
+C:\Users\Abhishek\Source\Repos\ExceptionLayer_PMS\bin\Debug\ExceptionLayer_PMS.pdb
+C:\Users\Abhishek\Source\Repos\ExceptionLayer_PMS\obj\Debug\ExceptionLayer_PMS.csproj.AssemblyReference.cache
+C:\Users\Abhishek\Source\Repos\ExceptionLayer_PMS\obj\Debug\ExceptionLayer_PMS.csproj.CoreCompileInputs.cache
+C:\Users\Abhishek\Source\Repos\ExceptionLayer_PMS\obj\Debug\ExceptionLayer_PMS.dll
+C:\Users\Abhishek\Source\Repos\ExceptionLayer_PMS\obj\Debug\ExceptionLayer_PMS.pdb

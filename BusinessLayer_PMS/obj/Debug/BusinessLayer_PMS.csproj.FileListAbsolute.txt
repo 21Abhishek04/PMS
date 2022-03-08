@@ -1,0 +1,10 @@
+C:\Users\Abhishek\Source\Repos\BusinessLayer_PMS\bin\Debug\BusinessLayer_PMS.dll
+C:\Users\Abhishek\Source\Repos\BusinessLayer_PMS\bin\Debug\BusinessLayer_PMS.pdb
+C:\Users\Abhishek\Source\Repos\BusinessLayer_PMS\bin\Debug\BusinessObject_PMS.dll
+C:\Users\Abhishek\Source\Repos\BusinessLayer_PMS\bin\Debug\DAL_PMS.dll
+C:\Users\Abhishek\Source\Repos\BusinessLayer_PMS\bin\Debug\BusinessObject_PMS.pdb
+C:\Users\Abhishek\Source\Repos\BusinessLayer_PMS\bin\Debug\DAL_PMS.pdb
+C:\Users\Abhishek\Source\Repos\BusinessLayer_PMS\obj\Debug\BusinessLayer_PMS.csproj.AssemblyReference.cache
+C:\Users\Abhishek\Source\Repos\BusinessLayer_PMS\obj\Debug\BusinessLayer_PMS.csproj.CoreCompileInputs.cache
+C:\Users\Abhishek\Source\Repos\BusinessLayer_PMS\obj\Debug\BusinessLayer_PMS.dll
+C:\Users\Abhishek\Source\Repos\BusinessLayer_PMS\obj\Debug\BusinessLayer_PMS.pdb
